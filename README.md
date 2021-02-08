@@ -1,1 +1,2 @@
 # freshman2021_ReadingImg
+这里用来保存金种子读书会中所用到的各类图片
